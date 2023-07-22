@@ -1,0 +1,16 @@
+/* Poppins Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+/* Common styles */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color: #385F96;
+    --secondary-color: #44D1D9;
+    --white-color: #fff;
+    --black-color: #000;
+}
+
