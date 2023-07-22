@@ -1,0 +1,20 @@
+@media screen and (max-width: 576px) {
+    nav{
+        display: none;
+    }
+    .hero-section{
+        flex-direction: column-reverse;
+    }
+
+    .hero-content,
+    .hero-img{
+        width: 100%;
+        padding: 0 3.5rem;
+    }
+    .hero-content{
+        text-align: center;
+    }
+    .hero-content p{
+        text-align: center;
+    }
+}
